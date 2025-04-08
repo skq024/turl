@@ -1,0 +1,10 @@
+scrapy==2.10.0
+pandas==2.1.0
+geopandas==0.13.2
+sqlalchemy==2.0.21
+psycopg2==2.9.7
+shapely==2.0.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+tqdm==4.66.1
+python-dotenv==1.0.0

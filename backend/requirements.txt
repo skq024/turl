@@ -1,0 +1,11 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+sqlalchemy==2.0.21
+geopandas==0.13.2
+psycopg2==2.9.7
+redis==4.6.0
+shapely==2.0.1
+pydantic==2.3.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
+requests==2.31.0
